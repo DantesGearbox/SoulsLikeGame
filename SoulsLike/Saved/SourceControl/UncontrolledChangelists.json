@@ -5,15 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/Characters/Mannequins/Animations/ABP_Player.uasset",
-				"C:/Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/GameFolder/ABP_Player.uasset",
-				"C:/Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/GameProject/ABP_Player.uasset",
 				"C:/Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
 				"C:/Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/Soulslike/ABP_Player.uasset",
 				"C:/Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/Soulslike/Blueprints/Equipment/BP_Equipment.uasset",
 				"C:/Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/Soulslike/Blueprints/Equipment/BP_Greatsword.uasset",
 				"C:/Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/Soulslike/Blueprints/Equipment/BP_Shield.uasset",
-				"C:/Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/Soulslike/ABP_PlayerCharacter.uasset",
+				"C:/Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/Characters/Mannequins/Animations/ABP_Player.uasset",
+				"C:/Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/GameFolder/ABP_Player.uasset",
+				"C:/Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/GameProject/ABP_Player.uasset"
 			]
 		}
 	]

@@ -1618,3 +1618,441 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.04.04-23.22.35:151][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.04.04-23.22.35:154][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
 [2024.04.04-23.22.35:234][349]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.04.04-23.25.24:536][694]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ANIM_Hold_Greatsword.ANIM_Hold_Greatsword
+[2024.04.04-23.25.25:612][694]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.25.25:612][694]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.25.25:674][694]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2024.04.04-23.25.25:775][694]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.25.26:262][694]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.25.26:262][694]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.25.26:350][694]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.25.26:423][694]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.25.26:456][694]LogSlate: Took 0.005108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.04-23.25.26:470][694]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2024.04.04-23.25.26:479][694]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.25.26:479][694]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.25.26:562][694]LogViewport: Scene viewport resized to 1139x511, mode Windowed.
+[2024.04.04-23.25.26:607][694]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.04-23.25.26:773][694]LogAutomationController: Ignoring very large delta of 2.26 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.04-23.25.26:783][695]LogShaderCompilers: Display: ================================================
+[2024.04.04-23.25.26:783][695]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.04-23.25.26:783][695]LogShaderCompilers: Display: Total job queries 6, among them cache hits 0 (0.00%)
+[2024.04.04-23.25.26:783][695]LogShaderCompilers: Display: Tracking 6 distinct input hashes that result in 5 distinct outputs (83.33%)
+[2024.04.04-23.25.26:784][695]LogShaderCompilers: Display: RAM used: 130.02 KiB of 819.20 MiB budget. Usage: 0.02%
+[2024.04.04-23.25.26:784][695]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.04-23.25.26:784][695]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.04-23.25.26:784][695]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.04.04-23.25.26:784][695]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.04-23.25.26:784][695]LogShaderCompilers: Display: ================================================
+[2024.04.04-23.25.26:921][697]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.25.26:989][700]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.25.43:506][681]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.25.43:506][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.25.43:520][681]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.25.43:520][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.25.43:575][681]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.25.43:575][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.25.46:484][849]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ANIM_Block_Shield.ANIM_Block_Shield
+[2024.04.04-23.25.46:485][849]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.25.46:485][849]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.25.46:497][849]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.25.46:821][849]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.25.46:821][849]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.25.46:898][849]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.25.47:060][849]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.25.47:060][849]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.25.47:075][849]LogViewport: Scene viewport resized to 1139x511, mode Windowed.
+[2024.04.04-23.25.47:119][849]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.04-23.25.56:787][419]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.25.56:787][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.25.56:796][419]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.25.56:796][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.25.56:853][419]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.25.56:853][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.26.01:314][677]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ANIM_Greatsword_Attack_01.ANIM_Greatsword_Attack_01
+[2024.04.04-23.26.01:315][677]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.26.01:315][677]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.26.01:327][677]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.26.01:657][677]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.26.01:658][677]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.26.01:739][677]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.26.01:858][677]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.26.01:858][677]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.26.01:900][677]LogViewport: Scene viewport resized to 1139x511, mode Windowed.
+[2024.04.04-23.26.01:927][677]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.04-23.26.08:287][ 45]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.26.08:288][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.26.08:297][ 45]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.26.08:297][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.26.08:349][ 45]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.26.08:349][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.26.44:610][810]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2024.04.04-23.26.44:615][810]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.26.44:615][810]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.26.44:630][810]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.26.45:016][810]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.26.45:016][810]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.26.45:168][810]LogViewport: Scene viewport resized to 1139x813, mode Windowed.
+[2024.04.04-23.27.05:652][714]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ANIM_Hold_Greatsword.ANIM_Hold_Greatsword
+[2024.04.04-23.27.05:652][714]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.27.05:652][714]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.27.05:663][714]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.27.06:068][714]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.27.06:068][714]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.27.06:149][714]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.27.06:285][714]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.27.06:285][714]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.27.06:301][714]LogViewport: Scene viewport resized to 1139x511, mode Windowed.
+[2024.04.04-23.27.06:334][714]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.04-23.27.47:552][153]Cmd: MODE GRID=0
+[2024.04.04-23.28.03:713][ 96]Cmd: MODE ROTGRID=0
+[2024.04.04-23.28.08:192][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.28.08:258][354]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SK_Mannequin
+[2024.04.04-23.28.08:259][354]LogSavePackage: Moving '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Saved/SK_Mannequin8ACE5EA4452D11BFEA0279AE7126D316.tmp' to '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset'
+[2024.04.04-23.28.08:271][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 1.21 sec)
+[2024.04.04-23.28.08:273][354]AssetCheck: New page: Asset Save: SK_Mannequin
+[2024.04.04-23.28.08:273][354]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2024.04.04-23.28.25:053][334]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.28.25:101][334]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SK_Mannequin
+[2024.04.04-23.28.25:101][334]LogSavePackage: Moving '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Saved/SK_MannequinB4256ED34B4CCB3C27090DBC36B68DED.tmp' to '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset'
+[2024.04.04-23.28.25:112][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 1.27 sec)
+[2024.04.04-23.28.25:115][334]AssetCheck: New page: Asset Save: SK_Mannequin
+[2024.04.04-23.28.25:115][334]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2024.04.04-23.28.34:006][850]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.28.34:061][850]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SK_Mannequin
+[2024.04.04-23.28.34:061][850]LogSavePackage: Moving '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Saved/SK_MannequinB0C8ECAA4ED26C70254D2795693E0BEE.tmp' to '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset'
+[2024.04.04-23.28.34:073][850]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 1.33 sec)
+[2024.04.04-23.28.34:074][850]AssetCheck: New page: Asset Save: SK_Mannequin
+[2024.04.04-23.28.34:075][850]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2024.04.04-23.28.47:229][618]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.28.47:269][618]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SK_Mannequin
+[2024.04.04-23.28.47:270][618]LogSavePackage: Moving '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Saved/SK_Mannequin0E9144A846671DF1985950BD655E060F.tmp' to '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset'
+[2024.04.04-23.28.47:279][618]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 1.38 sec)
+[2024.04.04-23.28.47:282][618]AssetCheck: New page: Asset Save: SK_Mannequin
+[2024.04.04-23.28.47:282][618]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2024.04.04-23.29.01:906][465]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.29.01:955][465]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SK_Mannequin
+[2024.04.04-23.29.01:955][465]LogSavePackage: Moving '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Saved/SK_MannequinF21E73AB491F79C2A06C3D97DC9DE2F2.tmp' to '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset'
+[2024.04.04-23.29.01:968][465]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 1.45 sec)
+[2024.04.04-23.29.01:971][465]AssetCheck: New page: Asset Save: SK_Mannequin
+[2024.04.04-23.29.01:971][465]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2024.04.04-23.29.28:533][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.29.28:582][  9]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SK_Mannequin
+[2024.04.04-23.29.28:582][  9]LogSavePackage: Moving '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Saved/SK_MannequinF755228447B6343EB60D30AD41446496.tmp' to '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset'
+[2024.04.04-23.29.28:594][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 1.51 sec)
+[2024.04.04-23.29.28:595][  9]AssetCheck: New page: Asset Save: SK_Mannequin
+[2024.04.04-23.29.28:595][  9]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2024.04.04-23.29.52:369][401]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.29.52:423][401]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SK_Mannequin
+[2024.04.04-23.29.52:424][401]LogSavePackage: Moving '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Saved/SK_Mannequin28BFED024A795001B40DFA91686ED040.tmp' to '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset'
+[2024.04.04-23.29.52:435][401]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 1.57 sec)
+[2024.04.04-23.29.52:437][401]AssetCheck: New page: Asset Save: SK_Mannequin
+[2024.04.04-23.29.52:437][401]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2024.04.04-23.30.22:195][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.30.22:250][149]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SK_Mannequin
+[2024.04.04-23.30.22:250][149]LogSavePackage: Moving '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Saved/SK_Mannequin83E1D0834A237DFB5EA2AF9283D039EF.tmp' to '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset'
+[2024.04.04-23.30.22:261][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 1.64 sec)
+[2024.04.04-23.30.22:262][149]AssetCheck: New page: Asset Save: SK_Mannequin
+[2024.04.04-23.30.22:263][149]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2024.04.04-23.31.18:209][471]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Soulslike/ABP_Player.ABP_Player
+[2024.04.04-23.31.18:210][471]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.31.18:211][471]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.31.18:221][471]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.31.18:221][471]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.31.18:231][471]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.31.18:672][471]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.31.18:672][471]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.31.18:824][471]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.31.18:842][471]LogViewport: Scene viewport resized to 474x379, mode Windowed.
+[2024.04.04-23.31.50:727][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.31.50:771][960]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SK_Mannequin
+[2024.04.04-23.31.50:772][960]LogSavePackage: Moving '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Saved/SK_Mannequin5B2F57EC4A400048024D02B99D07D2ED.tmp' to '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset'
+[2024.04.04-23.31.50:784][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 1.70 sec)
+[2024.04.04-23.31.50:785][960]AssetCheck: New page: Asset Save: SK_Mannequin
+[2024.04.04-23.31.50:785][960]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2024.04.04-23.32.04:848][802]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.04-23.32.04:854][802]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.04-23.32.04:854][802]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.04-23.32.04:856][802]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 16 ms)
+[2024.04.04-23.32.04:856][802]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.04-23.32.04:856][802]PIE: New page: PIE session: ThirdPersonMap (5 Apr 2024, 03:32:04)
+[2024.04.04-23.32.04:856][802]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.04-23.32.04:866][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010223s)
+[2024.04.04-23.32.04:867][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.010273s)
+[2024.04.04-23.32.04:933][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.04.04-23.32.04:937][802]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.32.04:937][802]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.32.04:938][802]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.04-23.32.04:938][802]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.04-23.32.04:938][802]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.04-23.32.04:938][802]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.04-23.32.04:938][802]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.04-23.32.04:939][802]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.04-23.32.04:939][802]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 314 ms)
+[2024.04.04-23.32.04:939][802]LogPlayLevel: PIE: World Init took: (0.002775s)
+[2024.04.04-23.32.04:939][802]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.04.04-23.32.04:940][802]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.04-23.32.04:940][802]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.04-23.32.04:940][802]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.04-23.32.04:940][802]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.04-23.32.04:940][802]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.04-23.32.04:940][802]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.04-23.32.04:940][802]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.04-23.32.04:940][802]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.04-23.32.04:940][802]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.04-23.32.04:941][802]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.04-23.32.04:941][802]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.04-23.32.04:943][802]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.04-23.32.04:983][802]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.04-23.32.04:984][802]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.04-23.32.04:984][802]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.04-23.32.04:984][802]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.04-23.32.04:984][802]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.04.04-23.32.04:984][802]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.04.04-23.32.04:986][802]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.04.04-23.32.04:986][802]LogInit: FAudioDevice initialized with ID 8.
+[2024.04.04-23.32.04:986][802]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.04.04-23.32.04:986][802]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonMap'.
+[2024.04.04-23.32.04:986][802]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.04-23.32.04:990][802]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.04-23.32.04:992][802]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.05-01.32.04
+[2024.04.04-23.32.04:992][802]LogWorld: Bringing up level for play took: 0.002117
+[2024.04.04-23.32.04:995][802]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.04.04-23.32.04:999][802]PIE: Server logged in
+[2024.04.04-23.32.05:000][802]PIE: Play in editor total start time 0.146 seconds.
+[2024.04.04-23.32.51:662][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.04-23.32.51:662][571]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.04-23.32.51:662][571]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.32.51:664][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.32.51:664][571]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.04-23.32.51:667][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.04-23.32.51:673][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.32.51:694][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.04-23.32.51:694][571]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.04-23.32.51:694][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.04-23.32.51:696][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.04-23.32.51:708][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.04.04-23.32.51:844][572]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.04.04-23.33.41:174][686]LogEditorTransaction: Undo Add Node
+[2024.04.04-23.33.41:807][686]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.33.41:813][686]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.33.41:821][686]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.33.43:653][785]LogEditorTransaction: Undo Move Node
+[2024.04.04-23.33.44:273][785]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.33.44:278][785]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.33.44:284][785]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.33.47:039][942]LogEditorTransaction: Undo Rotate Socket
+[2024.04.04-23.33.47:609][942]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.33.47:614][942]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.33.47:622][942]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.33.48:326][974]LogEditorTransaction: Undo Translate Socket
+[2024.04.04-23.33.48:904][974]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.33.48:909][974]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.33.48:916][974]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.34.45:649][383]BlueprintLog: New page: Compile ABP_Player
+[2024.04.04-23.34.45:714][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.04.04-23.36.20:339][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.04.04-23.36.20:344][839]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.030
+[2024.04.04-23.36.20:345][839]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Meshes/SK_Mannequin] ([1] browsable assets)...
+[2024.04.04-23.36.20:345][839]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/SK_Mannequin]
+[2024.04.04-23.36.20:363][839]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/SK_Mannequin_Auto1
+[2024.04.04-23.36.20:363][839]LogSavePackage: Moving '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Saved/SK_Mannequin_Auto1378E147A445C6354677A77BBA2A583C6.tmp' to '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Saved/Autosaves/Game/Characters/Mannequins/Meshes/SK_Mannequin_Auto1.uasset'
+[2024.04.04-23.36.20:365][839]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Soulslike/ABP_Player] ([2] browsable assets)...
+[2024.04.04-23.36.20:378][839]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Soulslike/ABP_Player.ABP_Player]
+[2024.04.04-23.36.20:378][839]OBJ SavePackage: Finished generating thumbnails for package [/Game/Soulslike/ABP_Player]
+[2024.04.04-23.36.20:423][839]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Soulslike/ABP_Player_Auto1
+[2024.04.04-23.36.20:423][839]LogSavePackage: Moving '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Saved/ABP_Player_Auto1151EE926496394C84385B5A36C103115.tmp' to '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Saved/Autosaves/Game/Soulslike/ABP_Player_Auto1.uasset'
+[2024.04.04-23.36.20:424][839]LogFileHelpers: Auto-saving content packages took 0.079
+[2024.04.04-23.38.23:887][278]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.04-23.38.23:894][278]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.04-23.38.23:894][278]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.04-23.38.23:897][278]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3 ms (total: 19 ms)
+[2024.04.04-23.38.23:898][278]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.04-23.38.23:899][278]LogPlayLevel: [PlayLevel] Compiling ABP_Player before play...
+[2024.04.04-23.38.24:012][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.04.04-23.38.24:014][278]LogPlayLevel: PlayLevel: Blueprint regeneration took 115 ms (1 blueprints)
+[2024.04.04-23.38.24:014][278]PIE: New page: PIE session: ThirdPersonMap (5 Apr 2024, 03:38:24)
+[2024.04.04-23.38.24:014][278]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.04-23.38.24:018][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004432s)
+[2024.04.04-23.38.24:018][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004469s)
+[2024.04.04-23.38.24:033][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.04.04-23.38.24:034][278]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.38.24:034][278]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.38.24:034][278]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.04-23.38.24:035][278]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.04-23.38.24:035][278]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.04-23.38.24:035][278]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.04-23.38.24:035][278]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.04-23.38.24:036][278]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.04-23.38.24:036][278]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 316 ms)
+[2024.04.04-23.38.24:036][278]LogPlayLevel: PIE: World Init took: (0.002474s)
+[2024.04.04-23.38.24:036][278]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.04.04-23.38.24:036][278]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.04-23.38.24:036][278]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.04-23.38.24:036][278]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.04-23.38.24:036][278]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.04-23.38.24:036][278]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.04-23.38.24:036][278]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.04-23.38.24:036][278]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.04-23.38.24:036][278]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.04-23.38.24:037][278]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.04-23.38.24:037][278]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.04-23.38.24:037][278]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.04-23.38.24:039][278]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.04-23.38.24:076][278]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.04-23.38.24:076][278]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.04-23.38.24:076][278]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.04-23.38.24:076][278]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.04-23.38.24:077][278]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.04.04-23.38.24:077][278]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.04.04-23.38.24:079][278]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.04.04-23.38.24:079][278]LogInit: FAudioDevice initialized with ID 9.
+[2024.04.04-23.38.24:079][278]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.04.04-23.38.24:079][278]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonMap'.
+[2024.04.04-23.38.24:079][278]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.04.04-23.38.24:105][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.04-23.38.24:105][278]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.04-23.38.24:108][278]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.05-01.38.24
+[2024.04.04-23.38.24:108][278]LogWorld: Bringing up level for play took: 0.002295
+[2024.04.04-23.38.24:110][278]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.04.04-23.38.24:117][278]PIE: Server logged in
+[2024.04.04-23.38.24:118][278]PIE: Play in editor total start time 0.223 seconds.
+[2024.04.04-23.38.24:201][278]LogViewport: Scene viewport resized to 1282x730, mode Windowed.
+[2024.04.04-23.38.27:895][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.04-23.38.27:895][458]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.04-23.38.27:896][458]LogSlate: Window 'SoulsLike Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.04-23.38.27:902][458]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.38.27:903][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.38.27:903][458]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.04-23.38.27:905][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.04-23.38.27:911][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.38.27:932][458]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.04.04-23.38.27:932][458]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.04.04-23.38.27:934][458]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.04.04-23.38.27:942][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.04.04-23.38.28:028][459]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.04.04-23.39.13:129][ 81]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.04-23.39.19:272][430]LogViewport: Scene viewport resized to 160x160, mode Windowed.
+[2024.04.04-23.39.56:209][348]BlueprintLog: New page: Compile ABP_Player
+[2024.04.04-23.39.56:280][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.04.04-23.42.18:875][554]BlueprintLog: New page: Compile ABP_Player
+[2024.04.04-23.42.18:935][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.04-23.42.36:507][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.42.36:549][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Soulslike/ABP_Player" FILE="../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/Soulslike/ABP_Player.uasset" SILENT=true
+[2024.04.04-23.42.36:609][591]LogSavePackage: Moving output files for package: /Game/Soulslike/ABP_Player
+[2024.04.04-23.42.36:610][591]LogSavePackage: Moving '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Saved/ABP_PlayerCEDC025A414D7F30519FC7BCBAA518CE.tmp' to '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/Soulslike/ABP_Player.uasset'
+[2024.04.04-23.42.36:622][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 1.81 sec)
+[2024.04.04-23.42.36:625][591]AssetCheck: New page: Asset Save: ABP_Player
+[2024.04.04-23.42.36:625][591]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Soulslike/ABP_Player.ABP_Player
+[2024.04.04-23.42.42:866][962]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.42.42:911][962]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SK_Mannequin
+[2024.04.04-23.42.42:912][962]LogSavePackage: Moving '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Saved/SK_MannequinBCEAD4E8443545C5BF490D9E2865291E.tmp' to '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset'
+[2024.04.04-23.42.42:922][962]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 1.87 sec)
+[2024.04.04-23.42.42:923][962]AssetCheck: New page: Asset Save: SK_Mannequin
+[2024.04.04-23.42.42:924][962]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2024.04.04-23.43.06:813][336]LogViewport: Scene viewport resized to 1139x647, mode Windowed.
+[2024.04.04-23.44.19:863][940]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2024.04.04-23.44.41:977][774]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.04-23.44.41:983][774]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.04-23.44.41:983][774]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.04-23.44.41:986][774]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 22 ms)
+[2024.04.04-23.44.41:986][774]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.04-23.44.41:987][774]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2024.04.04-23.44.42:120][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.04.04-23.44.42:122][774]LogPlayLevel: PlayLevel: Blueprint regeneration took 135 ms (1 blueprints)
+[2024.04.04-23.44.42:122][774]PIE: New page: PIE session: ThirdPersonMap (5 Apr 2024, 03:44:42)
+[2024.04.04-23.44.42:122][774]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.04-23.44.42:126][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003677s)
+[2024.04.04-23.44.42:126][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003707s)
+[2024.04.04-23.44.42:141][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.04.04-23.44.42:141][774]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.44.42:142][774]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.44.42:142][774]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.04-23.44.42:142][774]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.04-23.44.42:143][774]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.04-23.44.42:143][774]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.04-23.44.42:143][774]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.04-23.44.42:143][774]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.04-23.44.42:143][774]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 317 ms)
+[2024.04.04-23.44.42:143][774]LogPlayLevel: PIE: World Init took: (0.002177s)
+[2024.04.04-23.44.42:144][774]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.04.04-23.44.42:144][774]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.04-23.44.42:144][774]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.04-23.44.42:144][774]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.04-23.44.42:144][774]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.04-23.44.42:144][774]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.04-23.44.42:144][774]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.04-23.44.42:144][774]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.04-23.44.42:144][774]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.04-23.44.42:144][774]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.04-23.44.42:144][774]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.04-23.44.42:144][774]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.04-23.44.42:147][774]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.04-23.44.42:181][774]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.04-23.44.42:181][774]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.04-23.44.42:181][774]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.04-23.44.42:181][774]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.04-23.44.42:183][774]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.04.04-23.44.42:183][774]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.04.04-23.44.42:184][774]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.04.04-23.44.42:184][774]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.04.04-23.44.42:184][774]LogInit: FAudioDevice initialized with ID 10.
+[2024.04.04-23.44.42:184][774]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonMap'.
+[2024.04.04-23.44.42:184][774]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.04-23.44.42:208][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.04-23.44.42:208][774]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.04-23.44.42:210][774]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.05-01.44.42
+[2024.04.04-23.44.42:211][774]LogWorld: Bringing up level for play took: 0.002148
+[2024.04.04-23.44.42:213][774]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.04.04-23.44.42:218][774]PIE: Server logged in
+[2024.04.04-23.44.42:219][774]PIE: Play in editor total start time 0.235 seconds.
+[2024.04.04-23.44.42:303][774]LogViewport: Scene viewport resized to 1284x740, mode Windowed.
+[2024.04.04-23.45.27:729][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.04-23.45.27:729][485]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.04-23.45.27:730][485]LogSlate: Window 'SoulsLike Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.04-23.45.27:736][485]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.45.27:737][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.45.27:737][485]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.04-23.45.27:740][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.04-23.45.27:745][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.45.27:765][485]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.04-23.45.27:765][485]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.04-23.45.27:767][485]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.04-23.45.27:777][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.04.04-23.45.27:867][486]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.04.04-23.47.11:143][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.04.04-23.47.11:144][111]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.023
+[2024.04.04-23.47.11:145][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.04.04-23.47.11:208][111]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.04.04-23.47.11:208][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.04.04-23.47.11:225][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2
+[2024.04.04-23.47.11:225][111]LogSavePackage: Moving '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Saved/BP_ThirdPersonCharacter_Auto21552A3CA4DF6A7044B37E18A5E8E8914.tmp' to '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2.uasset'
+[2024.04.04-23.47.11:226][111]LogFileHelpers: Auto-saving content packages took 0.081
+[2024.04.04-23.47.34:161][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.47.34:206][220]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.04-23.47.34:207][220]LogSavePackage: Moving '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Saved/BP_ThirdPersonCharacterD02991DA4E129B26ECFEE083F212B123.tmp' to '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.04-23.47.34:217][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 1.92 sec)
+[2024.04.04-23.47.34:218][220]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.04-23.47.34:218][220]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.04-23.47.53:533][359]LogContentBrowser: Attempting asset rename: ABP_Player -> ABP_PlayerCharacter
+[2024.04.04-23.47.53:673][359]LogMetaData: Removing '/Game/Soulslike/ABP_PlayerCharacter.ABP_PlayerCharacter_C' ref from Metadata '/Game/Soulslike/ABP_Player.PackageMetaData'
+[2024.04.04-23.47.53:673][359]LogMetaData: Removing '/Game/Soulslike/ABP_PlayerCharacter.SKEL_ABP_PlayerCharacter_C' ref from Metadata '/Game/Soulslike/ABP_Player.PackageMetaData'
+[2024.04.04-23.47.53:673][359]LogMetaData: Removing '/Game/Soulslike/ABP_PlayerCharacter.SKEL_ABP_PlayerCharacter_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Soulslike/ABP_Player.PackageMetaData'
+[2024.04.04-23.47.53:673][359]LogMetaData: Removing '/Game/Soulslike/ABP_PlayerCharacter.SKEL_ABP_PlayerCharacter_C:BlueprintInitializeAnimation' ref from Metadata '/Game/Soulslike/ABP_Player.PackageMetaData'
+[2024.04.04-23.47.53:673][359]LogMetaData: Removing '/Game/Soulslike/ABP_PlayerCharacter.SKEL_ABP_PlayerCharacter_C:AnimGraph' ref from Metadata '/Game/Soulslike/ABP_Player.PackageMetaData'
+[2024.04.04-23.47.53:673][359]LogMetaData: Removing '/Game/Soulslike/ABP_PlayerCharacter.ABP_PlayerCharacter_C:BlueprintInitializeAnimation' ref from Metadata '/Game/Soulslike/ABP_Player.PackageMetaData'
+[2024.04.04-23.47.53:673][359]LogMetaData: Removing '/Game/Soulslike/ABP_PlayerCharacter.ABP_PlayerCharacter_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Soulslike/ABP_Player.PackageMetaData'
+[2024.04.04-23.47.53:673][359]LogMetaData: Removing '/Game/Soulslike/ABP_PlayerCharacter.ABP_PlayerCharacter_C:AnimGraph' ref from Metadata '/Game/Soulslike/ABP_Player.PackageMetaData'
+[2024.04.04-23.47.53:694][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.47.53:773][359]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.04-23.47.53:774][359]LogSavePackage: Moving '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Saved/BP_ThirdPersonCharacter2F0394CC436BE834905F21A9021472D0.tmp' to '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.04-23.47.53:843][359]LogSavePackage: Moving output files for package: /Game/Soulslike/ABP_PlayerCharacter
+[2024.04.04-23.47.53:843][359]LogSavePackage: Moving '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Saved/ABP_PlayerCharacter9997D1F14335F3D3EA9363833422870B.tmp' to '../../../../../../Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Content/Soulslike/ABP_PlayerCharacter.uasset'
+[2024.04.04-23.47.53:885][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 2.11 sec)
+[2024.04.04-23.47.54:054][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.04.04-23.47.54:086][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2024.04.04-23.47.54:107][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.04-23.47.54:112][359]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.04-23.47.54:113][359]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.04-23.47.54:113][359]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Soulslike/ABP_PlayerCharacter.ABP_PlayerCharacter
+[2024.04.04-23.47.54:152][360]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!

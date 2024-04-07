@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\mads\\documents\\unreal projects\\soullikegame_git\\soulslike\\intermediate\\build\\win64\\unrealeditor\\inc\\soulslike\\uht\\soulslikeattributeset.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\mads\\documents\\unreal projects\\soullikegame_git\\soulslike\\intermediate\\build\\win64\\x64\\soulslikeeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\mads\\documents\\unreal projects\\soullikegame_git\\soulslike\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\soulslike\\definitions.soulslike.h",
+            "c:\\users\\mads\\documents\\unreal projects\\soullikegame_git\\soulslike\\source\\soulslike\\soulslikeattributeset.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\runtime\\gameplayabilities\\source\\gameplayabilities\\public\\attributeset.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\runtime\\gameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\uht\\attributeset.generated.h",
+            "c:\\users\\mads\\documents\\unreal projects\\soullikegame_git\\soulslike\\intermediate\\build\\win64\\unrealeditor\\inc\\soulslike\\uht\\soulslikeattributeset.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

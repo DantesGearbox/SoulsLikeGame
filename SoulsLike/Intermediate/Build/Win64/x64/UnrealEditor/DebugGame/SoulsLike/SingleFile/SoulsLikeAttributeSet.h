@@ -1,0 +1,1 @@
+#include "C:/Users/Mads/Documents/Unreal Projects/SoulLikeGame_Git/SoulsLike/Source/SoulsLike/SoulsLikeAttributeSet.h"

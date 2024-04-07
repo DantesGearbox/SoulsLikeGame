@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\mads\\documents\\unreal projects\\soullikegame_git\\soulslike\\source\\soulslike\\mygamemodebasetest.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\mads\\documents\\unreal projects\\soullikegame_git\\soulslike\\intermediate\\build\\win64\\x64\\soulslikeeditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\mads\\documents\\unreal projects\\soullikegame_git\\soulslike\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\soulslike\\definitions.soulslike.h",
+            "c:\\users\\mads\\documents\\unreal projects\\soullikegame_git\\soulslike\\source\\soulslike\\mygamemodebasetest.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\mads\\documents\\unreal projects\\soullikegame_git\\soulslike\\intermediate\\build\\win64\\unrealeditor\\inc\\soulslike\\uht\\mygamemodebasetest.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

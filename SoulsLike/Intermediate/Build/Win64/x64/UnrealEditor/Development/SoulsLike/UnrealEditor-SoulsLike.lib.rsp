@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SoulsLike.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Mads\Documents\Unreal Projects\SoulLikeGame_Git\SoulsLike\Intermediate\Build\Win64\x64\SoulsLikeEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\Mads\Documents\Unreal Projects\SoulLikeGame_Git\SoulsLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\SoulsLike\MyGameModeBaseTest.gen.cpp.obj"
+"C:\Users\Mads\Documents\Unreal Projects\SoulLikeGame_Git\SoulsLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\SoulsLike\SoulsLike.init.gen.cpp.obj"
+"C:\Users\Mads\Documents\Unreal Projects\SoulLikeGame_Git\SoulsLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\SoulsLike\SoulsLikeAttributeSet.gen.cpp.obj"
+"C:\Users\Mads\Documents\Unreal Projects\SoulLikeGame_Git\SoulsLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\SoulsLike\SoulsLikeCharacter.gen.cpp.obj"
+"C:\Users\Mads\Documents\Unreal Projects\SoulLikeGame_Git\SoulsLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\SoulsLike\SoulsLikeGameMode.gen.cpp.obj"
+"C:\Users\Mads\Documents\Unreal Projects\SoulLikeGame_Git\SoulsLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\SoulsLike\MyClassTest.cpp.obj"
+"C:\Users\Mads\Documents\Unreal Projects\SoulLikeGame_Git\SoulsLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\SoulsLike\MyClassTestt.cpp.obj"
+"C:\Users\Mads\Documents\Unreal Projects\SoulLikeGame_Git\SoulsLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\SoulsLike\MyGameModeBaseTest.cpp.obj"
+"C:\Users\Mads\Documents\Unreal Projects\SoulLikeGame_Git\SoulsLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\SoulsLike\SoulsLike.cpp.obj"
+"C:\Users\Mads\Documents\Unreal Projects\SoulLikeGame_Git\SoulsLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\SoulsLike\SoulsLikeAttributeSet.cpp.obj"
+"C:\Users\Mads\Documents\Unreal Projects\SoulLikeGame_Git\SoulsLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\SoulsLike\SoulsLikeCharacter.cpp.obj"
+"C:\Users\Mads\Documents\Unreal Projects\SoulLikeGame_Git\SoulsLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\SoulsLike\SoulsLikeGameMode.cpp.obj"
+"C:\Users\Mads\Documents\Unreal Projects\SoulLikeGame_Git\SoulsLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\SoulsLike\Default.rc2.res"
+/OUT:"C:\Users\Mads\Documents\Unreal Projects\SoulLikeGame_Git\SoulsLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\SoulsLike\UnrealEditor-SoulsLike.lib"

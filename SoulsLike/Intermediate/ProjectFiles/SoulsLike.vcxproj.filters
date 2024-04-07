@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SoulsLike.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SoulsLike.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SoulsLikeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SoulsLike">
+      <UniqueIdentifier>{36C1C33C-B8F0-3578-82A2-49D401234923}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SoulsLike\SoulsLike.Build.cs">
+      <Filter>Source\SoulsLike</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SoulsLike\SoulsLike.cpp">
+      <Filter>Source\SoulsLike</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SoulsLike\SoulsLike.h">
+      <Filter>Source\SoulsLike</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SoulsLike\SoulsLikeAttributeSet.cpp">
+      <Filter>Source\SoulsLike</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SoulsLike\SoulsLikeAttributeSet.h">
+      <Filter>Source\SoulsLike</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SoulsLike\SoulsLikeCharacter.cpp">
+      <Filter>Source\SoulsLike</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SoulsLike\SoulsLikeCharacter.h">
+      <Filter>Source\SoulsLike</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SoulsLike\SoulsLikeGameMode.cpp">
+      <Filter>Source\SoulsLike</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SoulsLike\SoulsLikeGameMode.h">
+      <Filter>Source\SoulsLike</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

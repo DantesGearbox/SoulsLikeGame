@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\mads\\documents\\unreal projects\\soullikegame_git\\soulslike\\source\\soulslike\\myclasstestt.cpp",
+        "Source": "c:\\users\\emil engberg\\onedrive\\dokumenter\\github\\soulslikegame\\soulslike\\source\\soulslike\\myclasstestt.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\mads\\documents\\unreal projects\\soullikegame_git\\soulslike\\intermediate\\build\\win64\\x64\\soulslikeeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "PCH": "c:\\users\\emil engberg\\onedrive\\dokumenter\\github\\soulslikegame\\soulslike\\intermediate\\build\\win64\\x64\\soulslikeeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
         "Includes": [
-            "c:\\users\\mads\\documents\\unreal projects\\soullikegame_git\\soulslike\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\soulslike\\definitions.soulslike.h",
-            "c:\\users\\mads\\documents\\unreal projects\\soullikegame_git\\soulslike\\source\\soulslike\\myclasstestt.h"
+            "c:\\users\\emil engberg\\onedrive\\dokumenter\\github\\soulslikegame\\soulslike\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\soulslike\\definitions.soulslike.h",
+            "c:\\users\\emil engberg\\onedrive\\dokumenter\\github\\soulslikegame\\soulslike\\source\\soulslike\\myclasstestt.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

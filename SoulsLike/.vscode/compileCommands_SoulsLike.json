@@ -1,0 +1,122 @@
+[
+	{
+		"file": "C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\Source\\SoulsLike\\MyClassTest.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\.vscode\\compileCommands_SoulsLike\\SoulsLike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\Source\\SoulsLike\\MyClassTest.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\.vscode\\compileCommands_SoulsLike\\SoulsLike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\Source\\SoulsLike\\MyClassTestt.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\.vscode\\compileCommands_SoulsLike\\SoulsLike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\Source\\SoulsLike\\MyClassTestt.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\.vscode\\compileCommands_SoulsLike\\SoulsLike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\Source\\SoulsLike\\MyGameModeBaseTest.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\.vscode\\compileCommands_SoulsLike\\SoulsLike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\Source\\SoulsLike\\MyGameModeBaseTest.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\.vscode\\compileCommands_SoulsLike\\SoulsLike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\Source\\SoulsLike\\SoulsLike.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\.vscode\\compileCommands_SoulsLike\\SoulsLike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\Source\\SoulsLike\\SoulsLike.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\.vscode\\compileCommands_SoulsLike\\SoulsLike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\Source\\SoulsLike\\SoulsLike.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\.vscode\\compileCommands_SoulsLike\\SoulsLike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\Source\\SoulsLike\\SoulsLikeAttributeSet.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\.vscode\\compileCommands_SoulsLike\\SoulsLike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\Source\\SoulsLike\\SoulsLikeAttributeSet.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\.vscode\\compileCommands_SoulsLike\\SoulsLike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\Source\\SoulsLike\\SoulsLikeCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\.vscode\\compileCommands_SoulsLike\\SoulsLike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\Source\\SoulsLike\\SoulsLikeCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\.vscode\\compileCommands_SoulsLike\\SoulsLike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\Source\\SoulsLike\\SoulsLikeGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\.vscode\\compileCommands_SoulsLike\\SoulsLike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\Source\\SoulsLike\\SoulsLikeGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Emil Engberg\\OneDrive\\Dokumenter\\GitHub\\SoulsLikeGame\\SoulsLike\\.vscode\\compileCommands_SoulsLike\\SoulsLike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]

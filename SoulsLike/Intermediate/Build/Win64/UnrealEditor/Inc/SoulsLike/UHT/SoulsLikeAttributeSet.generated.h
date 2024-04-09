@@ -29,8 +29,6 @@ public: \
 
 
 #define FID_Users_Mads_Documents_Unreal_Projects_SoulLikeGame_Git_SoulsLike_Source_SoulsLike_SoulsLikeAttributeSet_h_19_ENHANCED_CONSTRUCTORS \
-	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API USoulsLikeAttributeSet(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API USoulsLikeAttributeSet(USoulsLikeAttributeSet&&); \
@@ -38,7 +36,7 @@ private: \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USoulsLikeAttributeSet); \
 	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USoulsLikeAttributeSet); \
-	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USoulsLikeAttributeSet) \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(USoulsLikeAttributeSet) \
 	NO_API virtual ~USoulsLikeAttributeSet();
 
 

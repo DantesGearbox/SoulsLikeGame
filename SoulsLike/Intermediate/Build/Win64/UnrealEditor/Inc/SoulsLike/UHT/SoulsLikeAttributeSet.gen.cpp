@@ -72,7 +72,6 @@ void EmptyLinkFunctionForGeneratedCodeSoulsLikeAttributeSet() {}
 	{
 		return USoulsLikeAttributeSet::StaticClass();
 	}
-	USoulsLikeAttributeSet::USoulsLikeAttributeSet(const FObjectInitializer& ObjectInitializer) : Super(ObjectInitializer) {}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(USoulsLikeAttributeSet);
 	USoulsLikeAttributeSet::~USoulsLikeAttributeSet() {}
 	struct Z_CompiledInDeferFile_FID_Users_Mads_Documents_Unreal_Projects_SoulLikeGame_Git_SoulsLike_Source_SoulsLike_SoulsLikeAttributeSet_h_Statics
